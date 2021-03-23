@@ -3,7 +3,7 @@ template: BlogPost
 path: "/kucing"
 date: 2021-03-23T07:00:00Z
 title: Kucing Ajaib
-thumbnail: "/static/assets/image-7.jpg"
+thumbnail: "/assets/image-7.jpg"
 
 ---
 Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus) adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau.

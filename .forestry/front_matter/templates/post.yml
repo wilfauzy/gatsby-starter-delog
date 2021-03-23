@@ -1,0 +1,19 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: template
+  label: template
+- type: text
+  name: path
+  label: path
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: thumbnail
+  label: thumbnail

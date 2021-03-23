@@ -14,7 +14,7 @@ Saat ini, kucing adalah salah satu hewan peliharaan terpopuler di dunia. Kucing 
 
 Jumlah kucing ras hanyalah 1% dari seluruh kucing di dunia, sisanya adalah kucing dengan keturunan campuran seperti kucing liar atau kucing kampung.
 
-![](/static/assets/1280px-collage_of_six_cats-01.jpg)
+![](/assets/1280px-collage_of_six_cats-01.jpg)
 
 ## Perilaku kucing
 

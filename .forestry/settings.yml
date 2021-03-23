@@ -1,17 +1,23 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
-sections: 
-upload_dir: uploads
-public_path: "/uploads"
+sections:
+- type: directory
+  path: _data/blog
+  label: Posts
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+upload_dir: static/assets
+public_path: "/static/assets"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_output_directory: public
-  install_dependencies_command: npm install
+  install_dependencies_command: yarn install
   preview_docker_image: forestryio/node:12
   mount_path: "/srv"
   working_dir: "/srv"
